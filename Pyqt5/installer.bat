@@ -1,0 +1,1 @@
+pyinstaller --windowed --icon=YasmeenTex.ico main.py
